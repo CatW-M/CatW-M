@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CatW-M
-- 👀 I’m interested in making the world a better place through clean code.
-- 🌱 I’m currently learning about data structures, algorithms, and space-time complexity.
+## Hi, I’m @CatW-M
+
 - 💞️ I’m looking to collaborate on web applications.
 - 📫 How to reach me: send me a message at wheelermushlin.com
 
