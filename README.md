@@ -15,7 +15,7 @@
 [(./img/twitter-dark.svg)](https://twitter.com/wordsbycat#gh-dark-mode-only)
 &nbsp;&nbsp;
 [(./img/linkedin-light.svg)](https://linkedin.com/in/compsciwheeler#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
+[(./img/linkedin-dark.svg)](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
