@@ -8,14 +8,14 @@
 
 ### Connect with me:
 
-[(./img/globe-light.svg)](https://wheelermushlin.com#gh-light-mode-only)
-[(./img/globe-dark.svg)](https://wheelermushlin.com#gh-dark-mode-only)
+[Portfolio](https://wheelermushlin.com#gh-light-mode-only)
+[Portfolio](https://wheelermushlin.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[(./img/twitter-light.svg)](https://twitter.com/wordsbycat#gh-light-mode-only)
-[(./img/twitter-dark.svg)](https://twitter.com/wordsbycat#gh-dark-mode-only)
+[Twitter](https://twitter.com/wordsbycat#gh-light-mode-only)
+[Twitter](https://twitter.com/wordsbycat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[(./img/linkedin-light.svg)](https://linkedin.com/in/compsciwheeler#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
+[LinkedIn](https://linkedin.com/in/compsciwheeler#gh-light-mode-only)
+[LinkedIn](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
