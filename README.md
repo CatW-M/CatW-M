@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://wheelermushlin.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wheelermushlin.com#gh-dark-mode-only)
+[(./img/globe-light.svg)](https://wheelermushlin.com#gh-light-mode-only)
+[(./img/globe-dark.svg)](https://wheelermushlin.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/wordsbycat#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/wordsbycat#gh-dark-mode-only)
+[(./img/twitter-light.svg)](https://twitter.com/wordsbycat#gh-light-mode-only)
+[(./img/twitter-dark.svg)](https://twitter.com/wordsbycat#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/compsciwheeler#gh-light-mode-only)
+[(./img/linkedin-light.svg)](https://linkedin.com/in/compsciwheeler#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
 &nbsp;&nbsp;
 
