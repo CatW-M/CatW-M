@@ -1,8 +1,8 @@
-### Hi, there, I'm Catherine - [a phoenix of the Flash deprecation and software engineer](https://www.wheelermushlin.com) 🐦‍🔥
+### Software developer with a background in the sciences and education. Strong writing skills and aptitude for translating complex technical concepts into understandable language. Almost 20 years experience with HTML and Cascading Style Sheets (CSS). Committed to continuous improvement and driving innovation through programming. 
+
+Trained in JavaScript, Python, React.js, PostgreSQL, MongoDB, AWS, RESTful Web Services, API Integration, Git, and pedagogical best practices, I enjoy working in a team environment and sharing knowledge.
 
 ## 🧪 I'm a Science Nerd, JavaScript Afficionado, Developer, and Teacher!
-- 🎧 I'm currently working on an [agile development team]() 
-- 🎏 I'm currently learning Tailwindcss and Next.js
 - 🧘‍♀️ I'm looking to land my first job in the tech industry
 - 🔌 I would love to connect!
 
@@ -18,12 +18,12 @@
 [LinkedIn](https://linkedin.com/in/compsciwheeler#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools:
+### Some Languages and Tools I use:
 - 💗 JavaScript 💗
 - HTML
 - CSS
 - 🐍 Python 🐍
-- React
+- React.js
 - Django
 - MongoDB 
 - 🐘 PostgreSQL 🐘
