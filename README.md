@@ -1,4 +1,6 @@
-### Software developer with a background in the sciences and education. Strong writing skills and aptitude for translating complex technical concepts into understandable language. Almost 20 years experience with HTML and Cascading Style Sheets (CSS). Committed to continuous improvement and driving innovation through programming. 
+### Software developer with a background in the sciences and education. 
+
+Strong writing skills and aptitude for translating complex technical concepts into understandable language. Almost 20 years experience with HTML and Cascading Style Sheets (CSS). Committed to continuous improvement and driving innovation through programming. 
 
 Trained in JavaScript, Python, React.js, PostgreSQL, MongoDB, AWS, RESTful Web Services, API Integration, Git, and pedagogical best practices, I enjoy working in a team environment and sharing knowledge.
 
