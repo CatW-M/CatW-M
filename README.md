@@ -1,11 +1,10 @@
-### Software developer with a background in the sciences and education. 
+### Software developer with background in project management and education. 
 
 Strong writing skills and aptitude for translating complex technical concepts into understandable language. Almost 20 years experience with HTML and Cascading Style Sheets (CSS). Committed to continuous improvement and driving innovation through programming. 
 
 Trained in JavaScript, Python, React.js, PostgreSQL, MongoDB, AWS, RESTful Web Services, API Integration, Git, and pedagogical best practices, I enjoy working in a team environment and sharing knowledge.
 
-## 🧪 I'm a Science Nerd, JavaScript Afficionado, Developer, and Teacher!
-- 🧘‍♀️ I'm looking to land my first job in the tech industry
+## JavaScript Afficionado, Developer, and Teacher!
 - 🔌 I would love to connect!
 
 ### Connect with me:
